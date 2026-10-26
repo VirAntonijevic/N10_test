@@ -1,0 +1,10 @@
+metadataId: ea192681-d039-42ec-b1bc-f3ce04c189ac
+output_directory: produktspesifikasjon
+product_slug: n50_kartdata
+updated: '2026-10-26'
+outputs: geopackage,postgis
+scopes:
+- name: N10_Beredskap_UML
+  url: https://sosi.geonorge.no/svn/SOSI/SOSI%20Del%203/Statens%20kartverk/N10-Beredskap-DGIF.xml
+  generator: xmi
+  description: ''
